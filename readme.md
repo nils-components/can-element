@@ -1,5 +1,7 @@
 # can-custom-elements
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-custom-elements.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org//can-custom-elements.png?branch=master)](https://travis-ci.org//can-custom-elements)
 
 
